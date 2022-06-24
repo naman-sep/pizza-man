@@ -2,14 +2,6 @@
 
 An E-Commerce website for ordering Pizza Online
 
-## Demo
-
-<div align="center">
-    <img src="./readme_img/demo.gif" style="width: 640px" />
-</div>
-
-**NOTE:** The features shown in the demo is not exhaustive. Only the core features are showcased in the demo.
-
 ## Tools used
 
 1. React: To create the Single Page App
